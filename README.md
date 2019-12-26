@@ -20,7 +20,7 @@ Pymatgen, pandas, numpy, functools, matplotlib, collections, seaborn
 3. Run "Distribution of Li local environments of sulfides in Material Project Database.ipynb" to get the distribution of lithium coordination environment.
 
 
-# If you use these codes, please cite our paper!
+# If you use these codes, please cite the following papers!
 [1] Zhenming Xu, Xin Chen, Ronghan Chen, Xin Li, Hong Zhu, Anion charge-lattice volume dependent Li ion migration in compounds  with the face-centered cubic anion frameworks, submitted
 
 [2] Waroquiers, D.; Gonze, X.; Rignanese, G.-M.; Welker-Nieuwoudt, C.; Rosowski, F.; Göbel, M.; Schenk, S.; Degelmann, P.; André, R.; Glaum, R.; Hautier, G. Statistical Analysis of Coordination Environments in Oxides. Chem. Mater. 2017, 29 (19), 8346-8360, DOI: 10.1021/acs.chemmater.7b02766.
