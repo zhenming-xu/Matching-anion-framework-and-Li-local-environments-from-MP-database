@@ -2,9 +2,9 @@
 
 These projects aim to get the distribution of anion framework type (fcc, bcc and hcp) and lithium coordination environment (octahedral and tetrahedral Li coordination) of lithium compounds from the Materials Project Database based on the Pymatgen code. The analyses of lithium coordination environment were performed by the ChemEnv code as integrated in the Pymatgen package. Only the stable binary, ternary and quaternary lithium compounds with energy above hull less than 0.05 eV/atom were considered. 
 
-!Matched anion frameworks(https://github.com/zhenming-xu/Matching-anion-framework-and-Li-local-environments-from-MP-database/Matched anion frameworks.png)
+![Matched anion frameworks](https://github.com/zhenming-xu/Matching-anion-framework-and-Li-local-environments-from-MP-database/Matched anion frameworks.png)
 
-!Lithium coordination environments(https://github.com/zhenming-xu/Matching-anion-framework-and-Li-local-environments-from-MP-database/Lithium coordination environments.png)
+![Lithium coordination environments](https://github.com/zhenming-xu/Matching-anion-framework-and-Li-local-environments-from-MP-database/Lithium coordination environments.png)
 
 # Some dependencies are need
 Pymatgen, pandas, numpy, functools, matplotlib, collections, seaborn
