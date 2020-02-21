@@ -23,7 +23,7 @@ Pymatgen, pandas, numpy, functools, matplotlib, collections, seaborn
 # Citing
 If you use these codes in your research, please consider citing the following work:
 
-[1] Zhenming Xu, Xin Chen, Ronghan Chen, Xin Li, Hong Zhu, Anion charge-lattice volume dependent Li ion migration in compounds  with the face-centered cubic anion frameworks, submitted
+[1] Zhenming Xu, Xin Chen, Ronghan Chen, Xin Li, Hong Zhu, Anion charge-lattice volume dependent Li ion migration in compounds  with the face-centered cubic anion frameworks, https://arxiv.org/abs/1910.11545
 
 [2] Waroquiers, D.; Gonze, X.; Rignanese, G.-M.; Welker-Nieuwoudt, C.; Rosowski, F.; Göbel, M.; Schenk, S.; Degelmann, P.; André, R.; Glaum, R.; Hautier, G. Statistical Analysis of Coordination Environments in Oxides. Chem. Mater. 2017, 29 (19), 8346-8360, DOI: 10.1021/acs.chemmater.7b02766.
 
