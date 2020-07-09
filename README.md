@@ -23,7 +23,8 @@ Pymatgen, pandas, numpy, functools, matplotlib, collections, seaborn
 # Citing
 If you use these codes in your research, please consider citing the following work:
 
-Zhenming Xu, Xin Chen, Ronghan Chen, Xin Li, Hong Zhu, Anion charge-lattice volume dependent Li ion migration in compounds  with the face-centered cubic anion frameworks, https://arxiv.org/abs/1910.11545
+Zhenming Xu, Xin Chen, Ronghan Chen, Xin Li, Hong Zhu, Anion charge-lattice volume dependent Li ion migration in compounds  with the face-centered cubic anion frameworks, npj Comput Mater 2020, 6, 47.
+Zhenming Xu, Hong Zhu, Anion Charge and Lattice Volume Maps for Searching Lithium Superionic Conductors, Chem. Mater. 2020, 32, 11, 4618–4626
 
 
 # If you have any question, please contact me!
